@@ -1,0 +1,13 @@
+target/
+test output/
+test-output/
+package-lock.json
+*.class
+*.log
+logs/
+build/
+.idea/
+*.iml
+reports*/
+pdf-report/
+embedded/
